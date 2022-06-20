@@ -1,0 +1,17 @@
+.header {
+  background: #f55a5a;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0px 10px 0px;
+}
+.path-icon {
+  width: 24px;
+}
+.header-title {
+  font-weight: 500;
+  font-size: 15px;
+  padding-left: 10px;
+  color: white;
+}
